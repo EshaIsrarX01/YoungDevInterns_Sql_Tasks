@@ -34,11 +34,24 @@ This repository includes a variety of SQL tasks that focus on:
 
 
 ## 🗂️ Tasks Overview  
-Each folder or file in this repository corresponds to a specific SQL task or project. The tasks are well-organized to ensure easy navigation and understanding. You will find tasks ranging from basic queries to more advanced optimization techniques. Here’s a brief overview:  
-- Tasks related to **database design and schema creation**.  
-- Queries that focus on **retrieving data**, filtering results, and using aggregation functions.  
-- Complex **joins** and **subqueries** for integrating data across multiple tables.  
-- Optimization tasks that involve analyzing and improving **query performance**. 
+This repository is structured to showcase SQL tasks categorized into three levels, each with specific challenges and learning objectives:  
+
+- **Basic Tasks:**  
+  - Creating and designing databases with schemas and relationships.  
+  - Writing simple SELECT queries to retrieve and filter data.  
+  - Performing basic data manipulation using INSERT, UPDATE, and DELETE statements.  
+
+- **Intermediate Tasks:**  
+  - Implementing multi-table joins and nested subqueries for data integration.  
+  - Working with aggregate functions like COUNT, SUM, AVG, and grouping data using GROUP BY.  
+  - Exploring advanced filtering techniques using WHERE and HAVING clauses.  
+
+- **Expert Tasks:**  
+  - Writing and optimizing complex queries for performance improvements.  
+  - Implementing stored procedures, triggers, and indexing for better query execution.  
+  - Analyzing and improving query execution plans to ensure scalability.  
+
+Each folder in the repository contains well-documented SQL scripts with comments explaining the logic and approach for each task, ensuring clarity and ease of understanding.  
 
 
 ## ⚙️ How to Use  
