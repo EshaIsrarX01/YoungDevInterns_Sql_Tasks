@@ -2,7 +2,7 @@
 
 A collection of SQL tasks completed during my internship. This repository highlights database creation, data manipulation, query optimization, and advanced SQL concepts, showcasing my progress in SQL development and learning.
 
-# Welcome to the **YoungDevInterns_Sql_Tasks** repository! ⭐
+# Welcome to the **YoungDevInterns_Sql_Tasks** repository!⭐
 
 This repository contains SQL tasks and projects completed during my internship with the **Young Developer Intern** program. It showcases my learning and progress in SQL development, database management, and query optimization.  
 
